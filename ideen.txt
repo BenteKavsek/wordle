@@ -1,0 +1,20 @@
+legenda
+
+
+// if input letter == letter uit array op die plek(
+//     maak vakje groen
+// )
+
+// if input letter == letter uit array niet op die plek(
+//     maak vakje geel
+// )
+
+// else (
+//     maak vakje grijs
+// )
+
+
+
+// css animaties dr in, extraatjes in paar min
+
+// in php ipv html
